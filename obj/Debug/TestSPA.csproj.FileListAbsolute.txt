@@ -1,0 +1,17 @@
+C:\Users\Owner\Desktop\Coding\TestSPA\TestSPA\bin\TestSPA.dll.config
+C:\Users\Owner\Desktop\Coding\TestSPA\TestSPA\bin\TestSPA.dll
+C:\Users\Owner\Desktop\Coding\TestSPA\TestSPA\bin\TestSPA.pdb
+C:\Users\Owner\Desktop\Coding\TestSPA\TestSPA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Owner\Desktop\Coding\TestSPA\TestSPA\bin\Newtonsoft.Json.dll
+C:\Users\Owner\Desktop\Coding\TestSPA\TestSPA\bin\System.Net.Http.Formatting.dll
+C:\Users\Owner\Desktop\Coding\TestSPA\TestSPA\bin\System.Web.Http.dll
+C:\Users\Owner\Desktop\Coding\TestSPA\TestSPA\bin\System.Web.Http.WebHost.dll
+C:\Users\Owner\Desktop\Coding\TestSPA\TestSPA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Owner\Desktop\Coding\TestSPA\TestSPA\bin\Newtonsoft.Json.xml
+C:\Users\Owner\Desktop\Coding\TestSPA\TestSPA\bin\System.Net.Http.Formatting.xml
+C:\Users\Owner\Desktop\Coding\TestSPA\TestSPA\bin\System.Web.Http.xml
+C:\Users\Owner\Desktop\Coding\TestSPA\TestSPA\bin\System.Web.Http.WebHost.xml
+C:\Users\Owner\Desktop\Coding\TestSPA\TestSPA\obj\Debug\TestSPA.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Coding\TestSPA\TestSPA\obj\Debug\TestSPA.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Coding\TestSPA\TestSPA\obj\Debug\TestSPA.dll
+C:\Users\Owner\Desktop\Coding\TestSPA\TestSPA\obj\Debug\TestSPA.pdb
